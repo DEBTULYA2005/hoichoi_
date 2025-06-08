@@ -26,7 +26,7 @@ body{
 #logo{
     height: 60px;
     width: 100%;
-    background-image: url("../images/Hoichoi-Logo-PNG.png");
+    background-image: url("images/Hoichoi-Logo-PNG.png");
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -99,7 +99,7 @@ a{
 .image{
     height: 100%;
     width: 100%;
-    background-image: url("../images/byomkesh.jpg");
+    background-image: url("images/byomkesh.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -216,7 +216,7 @@ P{
     width: 50%;
     margin-top: 50px;
     margin-left: 100px;
-    background-image: url("../images/Hoichoi-Logo-b&w-PNG.png");
+    background-image: url("images/Hoichoi-Logo-b&w-PNG.png");
     background-size: contain;
     background-repeat: no-repeat;
     
